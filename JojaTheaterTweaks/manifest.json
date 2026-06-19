@@ -10,7 +10,7 @@
   "UniqueID": "EnderTedi.JojaTheaterTweaks",
   "Name": "Joja Theater Tweaks",
   "Author": "EnderTedi, Midnight Voyager",
-  "Version": "1.0.0-Debug",
+  "Version": "1.0.0",
   "Description": "Move the Theater in the Joja Route to the CC Route location and show the abandonded JojaMart in the Joja Route",
   "MinimumApiVersion": "4.0.0",
   "MinimumGameVersion": "1.6.0",

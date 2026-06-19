@@ -1,6 +1,6 @@
 using StardewValley;
 
-namespace JojaTheaterMove.Util;
+namespace JojaTheaterTweaks.Util;
 
 public static class HelperFuncs
 {

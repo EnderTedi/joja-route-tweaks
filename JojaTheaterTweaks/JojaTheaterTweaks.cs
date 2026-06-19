@@ -1,9 +1,9 @@
 ﻿using HarmonyLib;
 using JetBrains.Annotations;
-using JojaTheaterMove.Util;
+using JojaTheaterTweaks.Util;
 using StardewModdingAPI;
 
-namespace JojaTheaterMove;
+namespace JojaTheaterTweaks;
 
 [UsedImplicitly]
 public class JojaTheaterTweaks : Mod

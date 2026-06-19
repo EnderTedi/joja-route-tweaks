@@ -4,7 +4,7 @@ using StardewValley;
 using StardewValley.Locations;
 using System.Reflection.Emit;
 
-namespace JojaTheaterMove.Patches;
+namespace JojaTheaterTweaks.Patches;
 
 [UsedImplicitly, HarmonyPatch(typeof(Town))]
 public class MoveMovieTheater

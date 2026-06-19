@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JojaTheaterMove", "JojaTheaterMove\JojaTheaterMove.csproj", "{047BCA73-33D0-407B-B6AD-8078B8E46F50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JojaTheaterTweaks", "JojaTheaterTweaks\JojaTheaterTweaks.csproj", "{047BCA73-33D0-407B-B6AD-8078B8E46F50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,13 +1,13 @@
 using HarmonyLib;
 using JetBrains.Annotations;
-using JojaTheaterMove.Util;
+using JojaTheaterTweaks.Util;
 using StardewValley;
 using StardewValley.Characters;
 using StardewValley.Extensions;
 using StardewValley.Locations;
 using System.Diagnostics.CodeAnalysis;
 
-namespace JojaTheaterMove.Patches;
+namespace JojaTheaterTweaks.Patches;
 
 [UsedImplicitly, HarmonyPatch(typeof(Town)), SuppressMessage("ReSharper", "InconsistentNaming")]
 public static class TownPatches
