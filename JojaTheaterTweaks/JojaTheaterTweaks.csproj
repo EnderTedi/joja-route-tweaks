@@ -6,7 +6,6 @@
         <LangVersion>14.0</LangVersion>
         <Nullable>enable</Nullable>
         <EnableHarmony>true</EnableHarmony>
-        <RootNamespace>JojaTheaterMove</RootNamespace>
     </PropertyGroup>
 
     <PropertyGroup>
